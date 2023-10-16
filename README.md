@@ -1,6 +1,6 @@
 <div align= >
 
-# <img align=center width=50px height=50px src="https://media0.giphy.com/media/CVrs76nnBvU7azfTLj/giphy.gif?cid=ecf05e47om1y68g5als66xi5mn32ui6gk2g8wpnv145ag265&rid=giphy.gif&ct=s"> Flash
+# ⚡ Flash
 
 </div>
 <p align="center">
@@ -11,7 +11,7 @@
     <br> 
 </p>
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#Started"> 💻 Get Started</a>
@@ -23,7 +23,7 @@
 
 <a id = "about"></a>
 
-## <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> Overview
+## 📙 Overview
 
 <ul>
 <li> The aim of this project is to develop a simple Crawler- based search engine that demonstrates the main features of a search engine
@@ -43,7 +43,7 @@ and the interaction between them.</li>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Started"></a>
 
-## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Get Started
+## 🚀 Get Started
 
 <ol>
 <li>Clone the repository.
@@ -62,7 +62,7 @@ git clone https://github.com/AbdelrahmanHamdyy/Flash
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Work"></a>
 
-## <img align= center width=65px height=65px src="https://raw.githubusercontent.com/EslamAsHhraf/EslamAsHhraf/main/images/skills.gif"> Search Engine Modules
+## 🔎 Search Engine Modules
 
 <table align="left;">
 <tr>
@@ -116,7 +116,7 @@ git clone https://github.com/AbdelrahmanHamdyy/Flash
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Video"></a>
 
-## <img  align= center width= 70px height =70px src="https://img.genial.ly/5f91608064ad990c6ee12237/bd7195a3-a8bb-494b-8a6d-af48dd4deb4b.gif?genial&1643587200063"> Demo
+## 🎥 Demo
 
 <div  align="center">
   <img align="center" height=370px  src="https://user-images.githubusercontent.com/71986226/185816905-080167a3-b937-487f-a587-5dad5b310ce0.gif">
@@ -129,7 +129,7 @@ git clone https://github.com/AbdelrahmanHamdyy/Flash
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors <a id ="Contributors"></a>
+## 👑 Contributors <a id ="Contributors"></a>
 
 <table align="center" >
   <tr>
